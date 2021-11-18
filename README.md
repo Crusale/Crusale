@@ -4,6 +4,7 @@ Fullstack web dev interested in frontend experiences, animations, always looking
 
 ⚡ Fun fact: It’s all 0’s and 1’s...
 
+👩‍💻 Dev portfolio coming soon...
 
 **4fun 1 day projects:**
 
