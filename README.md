@@ -1,4 +1,4 @@
-<img align="right" width="40%" src="https://user-images.githubusercontent.com/57440652/142459132-5b0fb55d-5864-4e92-b84f-cd18f9a0c33b.gif"/>
+<!-- <img align="right" width="40%" src="https://user-images.githubusercontent.com/57440652/142459132-5b0fb55d-5864-4e92-b84f-cd18f9a0c33b.gif"/> -->
 
 Fullstack web dev interested in frontend experiences, animations, always looking for time to code...
 
